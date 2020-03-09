@@ -1,5 +1,7 @@
 # pocketsphinx
 
+*From: https://www.robocupathomeedu.org/learn/turtlebot2-ros 
+
 Install PocketSphinx
 
 $ sudo apt-get install python-pip python-dev build-essential
