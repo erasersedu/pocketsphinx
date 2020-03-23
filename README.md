@@ -10,6 +10,8 @@ Install PocketSphinx:
 
 > sudo apt-get install libasound-dev
 
+> sudo apt-get install portaudio19-dev
+
 > sudo apt-get install python-pyaudio
 
 > sudo pip install pyaudio
