@@ -52,3 +52,11 @@ Download and copy the hub4wsj_sc_8k language model to
 https://sourceforge.net/projects/cmusphinx/files/Acoustic%20and%20Language%20Models/Archive/US%20English%20HUB4WSJ%20Acoustic%20Model/ 
 
 > sudo mkdir -p /usr/local/share/pocketsphinx/model/en-us/en-us/
+
+If the following message appears:
+
+`ImportError: No modile named pocketsphinx`
+
+please enter:
+
+> sudo -H pip install --upgrade pocketsphinx
